@@ -1,5 +1,3 @@
-# README.md
-# README.md
 <h1>Hi 👋, I'm Fathima Fara</h1>
 <p>A passionate frontend developer from Sri Lanka. Researcher on AI bias in recruitment, with a focus on statistical analysis and fairness. Currently exploring Python, Java, and clean coding practices. Background in Software Engineering (HND, BCS Certificate) and Commerce (AAT, GCE A/L) . Passionate about ethical technology, recruitment fairness, and structured communication. Connect with me on LinkedIn or X                                                                                                                  </p>
 <h2>🚀 Languages and Tools I Use</h2>
